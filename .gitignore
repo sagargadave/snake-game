@@ -1,0 +1,15 @@
+# Compiled binary
+snake
+*.o
+*.out
+
+# High score data file
+highscore.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
